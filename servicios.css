@@ -1,0 +1,33 @@
+
+.servicios-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .servicio {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fdfdfd;
+  }
+  
+  .servicio img {
+    width: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .boton {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .boton:hover {
+    background-color: #1c7ed6;
+  }
